@@ -1,4 +1,4 @@
 # Email-Message-Spam-Classifier
 
 Kaggle notebook: https://www.kaggle.com/code/dipabalihalder/sms-spam-classifier
-\nDeployed version: https://email-message-spam-classifier.streamlit.app/
+Deployed version: https://email-message-spam-classifier.streamlit.app/
